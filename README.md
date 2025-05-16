@@ -1,1 +1,1 @@
-Ver README original dentro del proyecto, esta como un archivo.
+Ver README original dentro de carpeta SRC, esta como un archivo.
